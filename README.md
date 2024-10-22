@@ -5,18 +5,18 @@ This project offers an imaginary vision of how we might create a static Web page
 
 ## Features
 
-- **Visual design**⭐
+- **Visual design** ⭐
     - Minimalist style: soft colors, simple icons and a clean desgign with blue and white tones.
     - Cartoon style: cartoon photos of the team members.
     - Social links: includes links to the social media of each team member.
-- **Contact functionality (in progress)**🚀
+- **Contact functionality (in progress)** 🚀
     - Contact button: for faster contact.
     - More functionalities (soon).
-- **Team section**🧑‍💻
+- **Team section** 🧑‍💻
     - Each member has a quick presentation with name, position and LinkedIn profile.
-- **Navegation**🚢
+- **Navegation** 🚢
     - Menu bar: a menu with "Team" and "Contact" buttons for easy navegation.
-- **Footer**🦶
+- **Footer** 🦶
     -  Legal information: Legal Notice, Privacy Policy, Terms and Conditions.
     -  Copyright: Copyright indicator for the web page.
 
@@ -36,3 +36,6 @@ This project offers an imaginary vision of how we might create a static Web page
 <image src="/images/landingPage.png" alt="landing-page">
 <image src="/images/mainSection.png" alt="landing-page">
 <image src="/images/cards.png" alt="landing-page">
+
+## Live View
+<p><a href="https://lozzdev.github.io/CodeBridge/">Click here!</a></p>
