@@ -33,4 +33,6 @@ This project offers an imaginary vision of how we might create a static Web page
 - SEO: search engine optimization.🚀
 
 ## Screenshots
-
+<image src="/images/landingPage.png" alt="landing-page">
+<image src="/images/mainSection.png" alt="landing-page">
+<image src="/images/cards.png" alt="landing-page">
