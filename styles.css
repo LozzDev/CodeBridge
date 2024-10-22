@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+body{
+    background-color: #F9F8F2;
+    height: 100%;
+    
+}
+
+header{
+    background-color: #69BBC8;
+    height: 90px;
+    
+}
+
+.top{
+    display: flex;
+    
+}
+
+img.logo-image{
+    width: 40px;
+    margin-left: 9.5px;
+    margin-right: 9.5px;
+}
+
+.logo{
+    display: flex;
+    margin-left: 115px;
+    margin-top: 21px;
+    
+}
+
+.bridge-text{
+    color: #F9F8F2;
+        
+}
+
+h2{
+    text-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+    font-size: 40px;
+}
+
+.contact{
+    position: absolute;
+    right: 0;
+    display: flex;
+    margin-right: 115px;
+    margin-top: 28px;
+}
+
+.contacto-button{
+    margin-left: 35px;
+    width: 125px;
+    height: 34px;
+    background-color: #F9F8F2;
+    border: 2px  #E3E3E3;
+    border-radius: 90px;
+    font-weight: bold;
+    color: #69BBC8;
+    box-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.equipo-button{
+    margin-left: 35px;
+    width: 125px;
+    height: 34px;
+    background-color: #000000;
+    color: #F9F8F2;
+    border: 1px #000000;
+    border-radius: 90px;
+    font-weight: bold;
+    box-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.main{
+    background-color:#F9F8F2;
+    display: flex;
+    
+}
+
+.team-image-source{
+    width: 430px;
+    border-radius: 235px;
+}
+.team-image{
+   margin-left: 215px; 
+   margin-top: 29px;
+   margin-bottom: 17px;
+   background-color: #69BBC8;
+   padding: 10px;
+   border-top-left-radius: 235px;
+   border-bottom-left-radius: 235px;
+   border-bottom-right-radius: 235px;
+   border-top-right-radius: 15px;
+   box-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.main-message{
+    margin-top: 100px;
+    margin-left: 200px;
+    text-align: center;
+    color: #69BBC8;
+    text-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+    font-size: 78px;
+    font-weight: lighter;
+    letter-spacing: 9px;
+    line-height: 80px;
+}
+
+.sub-title{
+    color: #000000;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.call-button{
+    
+    width: 250px;
+    height: 68px;
+    background-color: #000000;
+    color: #F9F8F2;
+    border: 1px #000000;
+    border-radius: 90px;
+    font-weight: bold;
+    box-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.bot{
+    display: flex;
+    background-color: #F9F8F2;
+    padding-bottom: 0px;
+}
+
+.bridge-big-icon{
+    background-color: #F9F8F2;
+}
+
+.avatars{
+    background-color: #69BBC8;
+    display: flex;
+    box-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+.avatars{
+
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+
+.roberto-image-source{
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 21px;
+    border-radius: 150px;
+}
+
+.miguel-image-source{
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 21px;
+    border-radius: 150px;
+}
+
+.daniela-image-source{
+    width: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 21px;
+    border-radius: 150px;
+}
+
+.info-card{
+    text-align: center;
+}
+
+.p-name-info{
+    color: #F9F8F2;
+    font-weight: bold;
+    font-size: 21px;
+    text-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.p-job-info{
+    font-weight: bolder;
+    font-size: 13px;
+    text-shadow: 5px 5px 9px rgba(20, 20, 20, 0.3);
+}
+
+.linkedin-icon-user{
+    overflow: visible;
+    transform: scale(4);
+}
+
+footer{
+    background-color: #000000;
+    display: flex;
+    height: 100%;
+    
+    
+}
+
+.legality{
+    color: #F9F8F2;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 555px;
+    margin-top: 22px;
+    
+}
+
+.facebook-icon{
+    margin-left: 70px;
+    margin-top: 4px;
+}
+
+.redes{
+    color: #F9F8F2;
+    margin-left: 115px;
+    margin-top: 8px;
+    font-weight: bold;
+
+}
+
+.bridge-icon-modified{
+    width: 40px;
+    height: 60px;
+}
+
+.copyright{
+    color: #F9F8F2;
+    display: flex;
+    margin-left: 590px;
+    text-align: end;
+}
+
+.copyright-text{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 12px;
+    
+}
+
+.main-part{
+    display: flex;
+    margin-left: 15%;
+}
